@@ -3,6 +3,8 @@
 
 # Extração Taxas DI com Grafico de curva de Juros
 
+Esse sistema em python, extrai as taxas de juros DI, modela os dados e plota a curva de juros.
+
 **O que são os contratos futuros de DI?**
 
 *Futuro de Taxa Média de Depósitos Interfinanceiros de Um Dia*
